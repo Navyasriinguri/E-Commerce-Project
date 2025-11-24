@@ -1,6 +1,6 @@
 # E-Commerce-Project
 
-This project demonstrates a deep dive into customer behavior, order trends, sales performance, and retention using advanced SQL techniques on an e-commerce dataset.
+This project demonstrates a deep dive into customer behavior, order trends, sales performance, and retention using advanced SQL techniques & Python Libraries on an e-commerce dataset.
 
 Project Highlights
 Performed business-critical analysis using SQL queries to extract actionable insights from customer, order, and payment data.
@@ -18,6 +18,10 @@ Subqueries & CTEs
 Window Functions
 Date Functions
 Join operations
+pandas
+Seaborn
+Numpy
+Matplolib
 
 ****Key Questions Answered****
 
