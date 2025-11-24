@@ -1,50 +1,45 @@
-# E-Commerce-Project
+# E-Commerce Sales Dashboard
 
-This project demonstrates a deep dive into customer behavior, order trends, sales performance, and retention using advanced SQL techniques & Python Libraries on an e-commerce dataset.
+<img width="1362" height="767" alt="image" src="https://github.com/user-attachments/assets/634d20c8-7bae-479f-a2f4-1de9c8c49f2c" />
 
-Project Highlights
-Performed business-critical analysis using SQL queries to extract actionable insights from customer, order, and payment data.
-Used window functions, aggregations, joins, and CTEs to answer both business and technical questions.
-Covered analysis at all levels:
+**Overview**
 
-Basic: Order counts, unique cities, total sales
-Intermediate: Monthly trends, average items per order, revenue contribution
-Advanced: Retention rate, year-over-year growth, moving averages.
+This project presents an E-Commerce Sales Dashboard designed to analyze sales performance, customer order trends, fulfillment patterns, and category-wise performance.
+The dashboard is built to help businesses understand operational efficiency and customer behavior using interactive and visually intuitive analytics.
 
-**Technologies Used**
+**Key Objectives**
 
-MySQL / PostgreSQL / SQL syntax
-Subqueries & CTEs
-Window Functions
-Date Functions
-Join operations
-pandas
-Seaborn
-Numpy
-Matplolib
+Analyze total orders, revenue, quantity, and cancellations
 
-****Key Questions Answered****
+Compare fulfillment channels (Amazon vs Merchant)
 
-**Basic Level:**
+Identify top-performing categories and cities
 
-How many orders are yet to be delivered?
-What are the most common order statuses?
-How many unique cities are customers located in?
-Total revenue per country/state
-Number of customers per state
+Track monthly revenue and weekday sales patterns
 
-**Intermediate Level:**
+Understand cancellation patterns by state.
 
-Number of orders placed per month in 2018
-Average number of products per order by city
-Percentage of revenue by product category
-Correlation between product price & frequency
-Top revenue-generating sellers
+**Dashboard Features**
+**KPI Metrics**
 
-**Advanced Level:**
+Total Orders: 129K
 
-Moving average of order values per customer over time
-Cumulative sales per month by year
-Year-over-year growth of total sales
-6-month customer retention rate
-Top 3 customers by spend per year
+Total Sales Revenue: ₹ 71.78M
+
+Average Order Value: 557
+
+Total Cancelled Orders: 20K
+
+Total Quantity Sold: 117K
+
+**Tools & Technologies**
+
+Power BI for data modeling & visualization
+
+Excel / CSV for dataset
+
+DAX for calculated measures
+
+**Dashboard Preview**
+
+A screenshot of the dashboard is shown above for quick reference.
